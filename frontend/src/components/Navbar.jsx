@@ -14,8 +14,8 @@ const NavBar = () => {
         alignItems={"center"}
         justifyContent={"space-between"}
         flexDir={{
-          base: "column",
-          sm: "row"
+          //base: "column",
+          sm: "row",
         }}
       >
 
